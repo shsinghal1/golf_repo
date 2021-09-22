@@ -1,0 +1,25 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.startBtn {
+  position: absolute;
+  left: 500px;
+  top: 200px;
+}
+
+.ball {
+  position: absolute;
+  /* left: 500px; */
+  top: 200px;
+  margin: 4px;
+  padding-top: 6px;
+  padding-left: 2px;
+  padding-right: 2px;
+  width: 30px;
+  height: 27px;
+  border: 2px solid black;
+  border-radius: 50%;
+  text-align: center;
+}
